@@ -94,4 +94,4 @@ public class MainActivity extends AppCompatActivity {
 ![image](https://github.com/Siddarthan999/MAD-EXP-10-Develop-an-Android-Application-to-Create-a-Option-Menu-to-Display-Menu-Items/assets/91734840/bdbf6e9e-f87f-4e20-9dda-9e042024cb63)
 
 ## RESULT
-Thus, a Simple Android Application to create a option menu to display menu items using Android Studio is developed and executed successfully.
+Thus, a Simple Android Application to create aN option menu to display menu items using Android Studio is developed and executed successfully.
