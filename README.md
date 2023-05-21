@@ -1,9 +1,8 @@
 # MAD-EXP-10-Develop an Android Application to create a option Menu to Display Menu Items using Android Studio.
 
-
 ## AIM:
 
-To create a option menu to display menu items using Android Studio.
+To create an option menu to display menu items using Android Studio.
 
 ## EQUIPMENTS REQUIRED:
 
